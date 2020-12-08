@@ -6,9 +6,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 git clone https://github.com/siva23ms/angular-crud-using-json-server.git
 
-## Install the needed npm packages:
+## Install the npm packages:
 
 Run `npm install` to install the needed npm packages to this project.
+
+## Start JSON Server
+
+Run `json-server --watch db.json` to start the json server. Navigate to `http://localhost:3000/users`.
 
 ## Development server
 
